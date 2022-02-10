@@ -6,7 +6,7 @@ but i mainly use
 - c++
 - js/html/css
 - mArKdOwN
-- your mom
+- go
 - python
 
 and remeber
