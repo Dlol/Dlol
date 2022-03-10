@@ -4,10 +4,11 @@ not often
 
 but i mainly use
 - c++
-- js/html/css
+- js/html/css/ts
 - mArKdOwN
 - go
 - python
+- haskell
 
 and remeber
 
