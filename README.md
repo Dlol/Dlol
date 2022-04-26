@@ -1,6 +1,9 @@
 i code things
 somewhat often 
 
+currently doing too much (not enough) webgl, even for my cs final proj
+(pinned!)
+
 but i mainly use
 - c++
 - js/html/css/ts
