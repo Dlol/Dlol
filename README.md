@@ -1,6 +1,5 @@
 i code things
-
-not often 
+somewhat often 
 
 but i mainly use
 - c++
