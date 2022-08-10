@@ -1,17 +1,15 @@
 i code things
 somewhat often 
 
-currently doing too much (not enough) webgl, even for my cs final proj
-(pinned!)
+im working on a web app cuz im bored (private)
+
+it'll be on the quizzacle organization when it reaches v1
 
 but i mainly use
-- c++
-- js/html/css/ts
-- mArKdOwN
+- rust
+- web langs
 - go
-- python
-- haskell
+- prolog <3
+- apl
 
-and remeber
-
-:clap: HOT :clap: GIRL :clap:  SUMMER :nail_care: 
+pride month is all year
