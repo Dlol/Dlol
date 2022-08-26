@@ -8,7 +8,7 @@ it'll be on the quizzacle organization when it reaches v1
 but i mainly use
 - rust
 - web langs
-- go
+- scala
 - prolog <3
 - apl
 
