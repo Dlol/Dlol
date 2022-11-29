@@ -12,4 +12,8 @@ but i mainly like
 - prolog <3
 - apl
 
+and i hate
+- java
+- c++
+
 pride month is all year
