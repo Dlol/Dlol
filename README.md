@@ -7,13 +7,14 @@ it'll be on the quizzacle organization when it reaches v1
 
 but i mainly like
 - rust
-- web langs
 - scala
 - prolog <3
 - apl
+- odin <333333333333333333333
 
 and i hate
-- java
-- c++
+- js
+- js again
+- hey look its js
 
 pride month is all year
