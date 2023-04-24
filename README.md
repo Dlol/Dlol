@@ -8,7 +8,4 @@ but i mainly like
 - apl
 - odin <333333333333333333333
 
-and i hate
-- whatever languagei actually use and not just think about using (still js)
-
 pride month is all year
