@@ -9,7 +9,7 @@ but i mainly like
 
 even though i code in
 - rust
-- python
-- gdscript/c# (use em for the same thing)
+- js
+- gdscript
 
 pride month is all year
